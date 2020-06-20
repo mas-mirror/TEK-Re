@@ -15,8 +15,8 @@
   <StartingActions>Actions/StartingActions.xml</StartingActions>
 
   <!-- Description that appears within Hacknet -->
-  <Description> --- Blank Extension ---
-Edit this with your own extension info and start building!</Description>
+  <Description> --- TEK-E2 ---
+重新制作了大部分内容。</Description>
   
   <!-- Factions involved in this extension! You can define as many or as few as you like -->
   <Faction>Factions/StartingFaction.xml</Faction>
